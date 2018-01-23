@@ -1,4 +1,4 @@
-# Overview
+# Statistical Modeling and Machine Learning
 
 This session is on modeling and machine learning in R.  We will cover all steps of the  machine learning pipeline in R, which includes:
 
@@ -7,7 +7,7 @@ This session is on modeling and machine learning in R.  We will cover all steps 
 3. Model Fitting and Tuning
 4. Model Evaluation and Visualization
 
-Following these steps, we will build some predictive models using the Airbnb data set, including Linear Regression, LASSO, Logistic Regression, and CART models.  
+Following these steps, we will build some predictive models using the Airbnb data set, including Linear Regression, LASSO, Logistic Regression, and CART models.  The materials for this session are available online at <https://github.com/brad-sturt/SoftwareTools-IAP2018/tree/master/Session3>.
 
 # Before the Session
 
